@@ -6,3 +6,4 @@ setuptools
 matplotlib
 seaborn
 xgboost
+scikit-learn
