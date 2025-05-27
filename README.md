@@ -16,7 +16,7 @@ This repository contains AI models designed for the detection of various types o
 - Implements machine learning algorithms for classification.
 
 ### Authors
-- **Chamanamas Ibrahim** 
+- **Chamanamas Ibrahim** -Developer
 
 ## Dataset
 The models are trained using the **WSN-DS** dataset, which includes the following attributes:
@@ -52,8 +52,8 @@ multi-attack-models containes models thats trained to detect the attack type and
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/trane-ai-models.git
-   cd trane-ai-models
+   git clone https://github.com/CH11Ibrahim/My_first_Deployead_app_model.git
+   cd My_first_Deployead_app_model
 2. **Build a docker image**
    ```bash
    docker build -t trane-ai-models .
@@ -61,6 +61,9 @@ multi-attack-models containes models thats trained to detect the attack type and
 3. **Run the Docker Container**
    ```bash
    docker run -p 8888:8888 trane-ai-models
-   
-# Take a look of the work
+# Access the Streamlit App
+Open your web browser and go to https://myfirstdeployeadappmodel.streamlit.app/ to view the application. 
+# Acknowledgments
+WSN-DS: A Dataset for Intrusion Detection Systems in Wireless Sensor Networks.
+# Take a look of the work online :
 https://myfirstdeployeadappmodel.streamlit.app/
