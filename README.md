@@ -1,9 +1,7 @@
 # My_first_Deployed_Model
 Streamlit site to show the results of traning model
-# Take a look of the work
-https://myfirstdeployeadappmodel.streamlit.app/
-# Trane AI Models for Intrusion Detection in Wireless Sensor Networks
 
+# Trane AI Models for Intrusion Detection in Wireless Sensor Networks
 ## Overview
 This repository contains AI models designed for the detection of various types of attacks in Wireless Sensor Networks (WSN), including Blackhole, Grayhole, Flooding,TDMA (Time Division Multiple Access) attack, and normal network states.
 
@@ -56,3 +54,13 @@ multi-attack-models containes models thats trained to detect the attack type and
    ```bash
    git clone https://github.com/yourusername/trane-ai-models.git
    cd trane-ai-models
+2. **Build a docker image**
+   ```bash
+   docker build -t trane-ai-models .
+   
+3. **Run the Docker Container**
+   ```bash
+   docker run -p 8888:8888 trane-ai-models
+   
+# Take a look of the work
+https://myfirstdeployeadappmodel.streamlit.app/
