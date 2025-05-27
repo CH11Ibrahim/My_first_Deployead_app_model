@@ -8,7 +8,7 @@ This repository contains AI models designed for the detection of various types o
 ## Resume
 ### About the Project
 - **Purpose**: To identify and classify attack types in WSN using the WSN-DS dataset. 
-- **Technologies Used**: Python, TensorFlow, Scikit-learn, Jupyter Notebook.
+- **Technologies Used**: Python, Scikit-learn, Jupyter Notebook.
 
 ### Key Features
 - Detects Blackhole, Grayhole, Flooding attacks, and normal states.
