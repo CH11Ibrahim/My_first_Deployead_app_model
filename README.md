@@ -1,5 +1,5 @@
 # My_first_Deployed_Model
-Streamlit site to show the results of traning model
+Machine Learning models that trained for WSN Securite in jupyter file and Streamlit site to show the results of traning model 
 
 # Trane AI Models for Intrusion Detection in Wireless Sensor Networks
 ## Overview
